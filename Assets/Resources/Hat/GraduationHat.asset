@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 43fba9c0fa2e8b744b2cff48774af465, type: 3}
+  m_Name: GraduationHat
+  m_EditorClassIdentifier: 
+  ItemName: Graduation Hat
+  ItemPrice: 11
+  Thumbnail: {fileID: 21300000, guid: dbf9a903bc59f3b458aae093b9b53397, type: 3}
+  Model: {fileID: 100002, guid: 5d8cc8a4c2f988244b35406cf86d9ac7, type: 3}
